@@ -1,0 +1,4 @@
+[submodule "abelann/public"]
+	path = abelann/public
+	url = https://github.com/abelann/abelann.github.io.git
+	branch = main
